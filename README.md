@@ -81,6 +81,17 @@ uname  |  Display information about the Kernel
 
 <br>
 
+### 7. Shell & Bash Configuration
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+echo $SHELL  |  Display current shell
+cat /etc/shells  |  Display all available shells
+chsh  |  Change login shell
+
+<br>
+
 
 ## Resources to Master Linux 
 
