@@ -1,10 +1,13 @@
 # Linux-Essentials
-List of all essential linux commands. The 20% you need to know.
+List of all essential linux commands. The 20% you need to know. <br><br>
+**Note:** This repo is not the ultimate guide to master linux, but it can be considered as a good reference for learning. It contains all the essential commands needed to work with a linux system.
+
 <br>
 
-### File Management & Manipulation
+### 1. File Management & Manipulation
+<hr>
 
-Terminal Code  | Functionality
+Terminal Codes  | Functionality
 ------------- | -------------
 pwd  | Print Working Directory
 cd | Change Working Directory
