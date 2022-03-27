@@ -56,12 +56,13 @@ grep   |  Search for patterns in a file
 
 <br>
 
-### 5. Locate Utility
+### 5. Search Utility
 <hr>
 
 Terminal Code  | Functionality
 -------------  | -------------
-locate   |  Search for patterns in a file
+locate   |  Locate a file
+find     |  Find a file specifically
 
 <br>
 
@@ -79,3 +80,9 @@ lscpu  | Display information on the CPU
 uname  |  Display information about the Kernel
 
 <br>
+
+
+## Resources to Master Linux 
+
+* [Bandit Labs](https://overthewire.org/wargames/bandit/) <br>
+  A website to practise your terminal skills in linux
