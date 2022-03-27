@@ -2,7 +2,7 @@
 List of all essential linux commands. The 20% you need to know. <br>
 All commands in this repo are categorized based on their functionality.
 <br><br>
-**Note:** This repo is not the ultimate guide to master linux, but it can be considered as a good reference for learning. It contains all the essential commands needed to work with a linux system.
+**Note:** This repo is not the ultimate guide to master linux, but it can be considered as a good reference for learning. It contains all the essential commands needed to work with a linux system. For further information on each command, use the **'man'** utility. 
 
 <br>
 
@@ -92,6 +92,15 @@ chsh  |  Change login shell
 
 <br>
 
+### 8. Disk Usage
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+du  |  Display the disk usage of current directory
+df  |  Display the entire disk usage
+
+<br>
 
 ## Resources to Master Linux 
 
