@@ -7,7 +7,7 @@ List of all essential linux commands. The 20% you need to know. <br><br>
 ### 1. File Management & Manipulation
 <hr>
 
-Terminal Codes  | Functionality
+Terminal Code  | Functionality
 ------------- | -------------
 pwd  | Print Working Directory
 cd | Change Working Directory
@@ -23,3 +23,14 @@ mv | Move a file
 nano | Edit a file using nano editor
 vim | Edit a file using vim editor
 
+<br>
+
+### 2. File & Directory Permissions
+<hr>
+
+Terminal Code  | Functionality
+------------- | -------------
+chmod  | Change Permissions of a file or directory
+
+
+<br>
