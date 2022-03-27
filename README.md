@@ -30,7 +30,26 @@ vim | Edit a file using vim editor
 
 Terminal Code  | Functionality
 ------------- | -------------
-chmod  | Change Permissions of a file or directory
+chmod  |  Change Permissions of a file or directory
+ 
 
+<br>
+
+### 3. File & Directory Ownership
+<hr>
+
+Terminal Code  | Functionality
+------------- | -------------
+chown  |  Change User Ownership of a file or directory
+chgrp  |  Change Group Ownership of a file or directory
+
+<br>
+
+### 4. Grep & Piping
+<hr>
+
+Terminal Code  | Functionality
+------------- | -------------
+grep   |  Searches for patterns in a file
 
 <br>
