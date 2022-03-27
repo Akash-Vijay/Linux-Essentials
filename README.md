@@ -64,3 +64,18 @@ Terminal Code  | Functionality
 locate   |  Search for patterns in a file
 
 <br>
+
+### 6. Enumerating Distribution & Kernel Information
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+who  |  Display logged in users
+whoami  |  Display username
+hostname  |  Display current hostname
+id  |  Display current User & Group ID
+groups  |  Display all the groups of the user
+lscpu  | Display information on the CPU
+uname  |  Display information about the Kernel
+
+<br>
