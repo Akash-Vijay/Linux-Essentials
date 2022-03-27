@@ -50,6 +50,6 @@ chgrp  |  Change Group Ownership of a file or directory
 
 Terminal Code  | Functionality
 ------------- | -------------
-grep   |  Searches for patterns in a file
+grep   |  Search for patterns in a file
 
 <br>
