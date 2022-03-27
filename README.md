@@ -21,5 +21,5 @@ mkdir | Create a Directory
 cp | Copy a file
 mv | Move a file
 nano | Edit a file using nano editor
-vim | Edit a file usisng vim editor
+vim | Edit a file using vim editor
 
