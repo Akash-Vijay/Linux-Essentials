@@ -1,5 +1,7 @@
 # Linux-Essentials
-List of all essential linux commands. The 20% you need to know. <br><br>
+List of all essential linux commands. The 20% you need to know. <br>
+All commands in this repo are categorized based on their functionality.
+<br><br>
 **Note:** This repo is not the ultimate guide to master linux, but it can be considered as a good reference for learning. It contains all the essential commands needed to work with a linux system.
 
 <br>
@@ -8,7 +10,7 @@ List of all essential linux commands. The 20% you need to know. <br><br>
 <hr>
 
 Terminal Code  | Functionality
-------------- | -------------
+-------------  | -------------
 pwd  | Print Working Directory
 cd | Change Working Directory
 ls | List all Files & Directories
@@ -29,7 +31,7 @@ vim | Edit a file using vim editor
 <hr>
 
 Terminal Code  | Functionality
-------------- | -------------
+-------------  | -------------
 chmod  |  Change Permissions of a file or directory
  
 
@@ -39,7 +41,7 @@ chmod  |  Change Permissions of a file or directory
 <hr>
 
 Terminal Code  | Functionality
-------------- | -------------
+-------------  | -------------
 chown  |  Change User Ownership of a file or directory
 chgrp  |  Change Group Ownership of a file or directory
 
@@ -49,7 +51,16 @@ chgrp  |  Change Group Ownership of a file or directory
 <hr>
 
 Terminal Code  | Functionality
-------------- | -------------
+-------------  | -------------
 grep   |  Search for patterns in a file
+
+<br>
+
+### 5. Locate Utility
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+locate   |  Search for patterns in a file
 
 <br>
