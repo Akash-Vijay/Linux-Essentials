@@ -199,6 +199,15 @@ Terminal Code  | Functionality
 -------------  | -------------
 ufw  |  Manage UFW Firewall
 
+<br>
+
+
+### 17. Clear Logs
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+shred  |  Overwrite the specified file(s) repeatedly
 
 <br>
 
@@ -207,3 +216,9 @@ ufw  |  Manage UFW Firewall
 
 * **[Bandit Labs](https://overthewire.org/wargames/bandit/)** <br>
   A website to practise your terminal skills in linux
+
+* **[Linux Tutorial](https://www.udemy.com/course/linux-tutorials/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-VnFUWbVcVLi_lc3okae7kg)** <br>
+  Free Udemy Course on Linux
+  
+* **[Linux Survival](https://linuxsurvival.com/)** <br>
+  Free Linux Tutorial
