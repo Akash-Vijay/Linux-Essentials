@@ -189,9 +189,18 @@ Terminal Code  | Functionality
 -------------  | -------------
 curl  |  Transfer a URL
 
-
 <br>
 
+
+### 16. UFW Firewall
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+ufw  |  Manage UFW Firewall
+
+
+<br>
 
 
 ## Resources to Master Linux 
