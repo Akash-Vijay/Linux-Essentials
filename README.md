@@ -102,6 +102,15 @@ df  |  Display the entire disk usage
 
 <br>
 
+### 9. File Compression
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+tar  |  Archive files & directories
+
+<br>
+
 ## Resources to Master Linux 
 
 * [Bandit Labs](https://overthewire.org/wargames/bandit/) <br>
