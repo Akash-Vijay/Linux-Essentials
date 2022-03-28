@@ -182,6 +182,18 @@ scp  |  Secure copy (remote file copy program)
 <br>
 
 
+### 15. Curl
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+curl  |  Transfer a URL
+
+
+<br>
+
+
+
 ## Resources to Master Linux 
 
 * **[Bandit Labs](https://overthewire.org/wargames/bandit/)** <br>
