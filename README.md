@@ -126,6 +126,18 @@ groups  | Display all the groups of the user
 
 <br>
 
+### 11. Networking
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+ip  | Show / Manipulate routing and devices 
+ifconfig  |  Configure a network interface
+dhclient  |  Dynamic Host Configuration Protocol Client
+netstat  |  Print network connections and routing table 
+netdiscover  |  An active/passive arp reconnaissance tool
+
+<br>
 
 ## Resources to Master Linux 
 
