@@ -151,6 +151,20 @@ proxychains  |  Redirect connections through proxy servers
 <br>
 
 
+### 13. Service and Process Management
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+tip  |  Display all linux processes
+htop  |  Interactive process viewer
+free  |  Analyse the memory usage 
+ps  |  Report a snapshot of the current processes
+service  |  Give a list of all available services
+
+<br>
+
+
 ## Resources to Master Linux 
 
 * **[Bandit Labs](https://overthewire.org/wargames/bandit/)** <br>
