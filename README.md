@@ -1,8 +1,13 @@
 # Linux-Essentials
-List of all essential linux commands. The 20% you need to know. <br>
-All commands in this repo are categorized based on their functionality.
-<br><br>
-**Note:** This repo is not the ultimate guide to master linux, but it can be considered as a good reference for learning. It contains all the essential commands needed to work with a linux system. For further information on each command, use the **'man'** utility or **[explainshell.com](https://explainshell.com/)**
+List of all essential linux commands. The 20% you need to know. 
+<br>
+
+### Special Notes: <br>
+* This repo is not the ultimate guide to master linux, but it can be considered as a good reference for learning. 
+* All commands in this repo are categorized based on their functionality.
+* For further information on each command and their flags, use the **'man'** utility or **[explainshell.com](https://explainshell.com/)**
+* Some of the commands mentioned below may not be available in a noraml distribution right out of the box.
+
 
 <br>
 
