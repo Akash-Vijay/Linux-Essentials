@@ -165,6 +165,18 @@ service  |  Give a list of all available services
 <br>
 
 
+### 14. SSH & SSH Security
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+ssh  |  OpenSSH SSH client (remote login program)
+ssh-keygen  |  Authentication key generation, management and conversion
+scp  |  Secure copy (remote file copy program)
+
+<br>
+
+
 ## Resources to Master Linux 
 
 * **[Bandit Labs](https://overthewire.org/wargames/bandit/)** <br>
