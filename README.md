@@ -153,5 +153,5 @@ proxychains  |  Redirect connections through proxy servers
 
 ## Resources to Master Linux 
 
-* [Bandit Labs](https://overthewire.org/wargames/bandit/) <br>
+* **[Bandit Labs](https://overthewire.org/wargames/bandit/)** <br>
   A website to practise your terminal skills in linux
