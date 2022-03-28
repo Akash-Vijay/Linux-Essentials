@@ -156,7 +156,7 @@ proxychains  |  Redirect connections through proxy servers
 
 Terminal Code  | Functionality
 -------------  | -------------
-tip  |  Display all linux processes
+top  |  Display all linux processes
 htop  |  Interactive process viewer
 free  |  Analyse the memory usage 
 ps  |  Report a snapshot of the current processes
