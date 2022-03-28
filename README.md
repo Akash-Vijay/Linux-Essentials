@@ -139,6 +139,18 @@ netdiscover  |  An active/passive arp reconnaissance tool
 
 <br>
 
+
+### 12. TOR & Proxychains
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+tor  |  Anonymize communication services
+proxychains  |  Redirect connections through proxy servers
+
+<br>
+
+
 ## Resources to Master Linux 
 
 * [Bandit Labs](https://overthewire.org/wargames/bandit/) <br>
