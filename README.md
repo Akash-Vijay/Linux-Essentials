@@ -111,6 +111,22 @@ tar  |  Archive files & directories
 
 <br>
 
+
+### 10. Users and Groups
+<hr>
+
+Terminal Code  | Functionality
+-------------  | -------------
+useradd  |  Add a user to the system 
+usermod  |  Modify a user account
+userdel  |  Delete a user account
+passwd  |  Change user password
+su  |  switch user
+groups  | Display all the groups of the user
+
+<br>
+
+
 ## Resources to Master Linux 
 
 * [Bandit Labs](https://overthewire.org/wargames/bandit/) <br>
